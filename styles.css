@@ -1,0 +1,35 @@
+body {
+  background-color: #393E46;
+}
+button{
+  size:20rem;
+}
+.container {
+  color: #4ECCA3;
+  text-align: center;
+  font-family:"Lobster";
+
+}
+.dice{
+  font-size:4rem;
+  display:inline-block;
+  margin-right:2rem;
+  padding:1rem;
+
+}
+h1{
+  font-size:8rem;
+  margin-bottom:1rem;
+  padding:1rem;
+}
+img{
+  width:80%;
+}
+footer{
+  padding-top:3rem;;
+  text-align:center;
+  margin:0;
+}
+a{
+  color:white;
+}
